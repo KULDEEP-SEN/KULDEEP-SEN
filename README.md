@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kuldeep</h1>
-- 🔭 I’m currently working on [In smart India hackthon](https://github.com/KULDEEP-SEN/FloatX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
