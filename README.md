@@ -1,4 +1,4 @@
-## Hi there 👋 Im Kuldeep
+## Hi 👋 Im Kuldeep
 
 <!--
 **KULDEEP-SEN/KULDEEP-SEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
